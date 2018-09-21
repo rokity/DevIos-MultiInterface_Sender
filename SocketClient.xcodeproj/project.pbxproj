@@ -7,18 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8B12EE64214D8D580063F1D6 /* bull_no_geometrie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8B12EE63214D8D580063F1D6 /* bull_no_geometrie.jpg */; };
 		8B59A241214AF69700C001EA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B59A240214AF69700C001EA /* AppDelegate.m */; };
 		8B59A244214AF69700C001EA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B59A243214AF69700C001EA /* ViewController.m */; };
 		8B59A247214AF69700C001EA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B59A245214AF69700C001EA /* Main.storyboard */; };
 		8B59A249214AF69700C001EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B59A248214AF69700C001EA /* Assets.xcassets */; };
 		8B59A24C214AF69700C001EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B59A24A214AF69700C001EA /* LaunchScreen.storyboard */; };
 		8B59A24F214AF69700C001EA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B59A24E214AF69700C001EA /* main.m */; };
+		8B9A250E21516AC1001A5011 /* foto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8B9A250D21516AC1001A5011 /* foto.jpg */; };
 		8BA35BF9214BF42200CD64E2 /* package.json in Resources */ = {isa = PBXBuildFile; fileRef = 8BA35BF8214BF42200CD64E2 /* package.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8B12EE63214D8D580063F1D6 /* bull_no_geometrie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bull_no_geometrie.jpg; sourceTree = "<group>"; };
 		8B59A23C214AF69600C001EA /* SocketClient.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SocketClient.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B59A23F214AF69600C001EA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		8B59A240214AF69700C001EA /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -29,6 +28,7 @@
 		8B59A24B214AF69700C001EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8B59A24D214AF69700C001EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8B59A24E214AF69700C001EA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8B9A250D21516AC1001A5011 /* foto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = foto.jpg; sourceTree = "<group>"; };
 		8BA35BF8214BF42200CD64E2 /* package.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = package.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -68,8 +68,8 @@
 				8B59A242214AF69700C001EA /* ViewController.h */,
 				8B59A243214AF69700C001EA /* ViewController.m */,
 				8B59A245214AF69700C001EA /* Main.storyboard */,
+				8B9A250D21516AC1001A5011 /* foto.jpg */,
 				8B59A248214AF69700C001EA /* Assets.xcassets */,
-				8B12EE63214D8D580063F1D6 /* bull_no_geometrie.jpg */,
 				8B59A24A214AF69700C001EA /* LaunchScreen.storyboard */,
 				8B59A24D214AF69700C001EA /* Info.plist */,
 				8B59A24E214AF69700C001EA /* main.m */,
@@ -135,7 +135,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8BA35BF9214BF42200CD64E2 /* package.json in Resources */,
-				8B12EE64214D8D580063F1D6 /* bull_no_geometrie.jpg in Resources */,
+				8B9A250E21516AC1001A5011 /* foto.jpg in Resources */,
 				8B59A24C214AF69700C001EA /* LaunchScreen.storyboard in Resources */,
 				8B59A249214AF69700C001EA /* Assets.xcassets in Resources */,
 				8B59A247214AF69700C001EA /* Main.storyboard in Resources */,
